@@ -1,7 +1,7 @@
 # .gitignore
 
 # Firebase 서비스 계정 키 파일 무시
-serviceAccountKey.json
+your-name-382bf-firebase-adminsdk-fbsvc-9685f549c2.json
 
 # 다른 민감한 정보나 불필요한 파일들
 .env
